@@ -11,15 +11,17 @@ public class App
     public static void main( String[] args )
     {
         int choice;
+        FileIoManager mgr=new FileIoManager();
 
         Scanner sc=new Scanner(System.in);
-        Shelf motivationalBook =new Shelf();
+        Shelf motivationalBook = mgr.readFromFile();
 
         System.out.println("----Menu------");
         System.out.println("1. Add new Book");
         System.out.println("2. remove top book");
         System.out.println("3. display all books");
-        System.out.println("4.exit");
+        System.out.println("4. save to file");
+        System.out.println("5.exit");
         
 
         do
@@ -52,11 +54,15 @@ public class App
             
                 case 3:
                      motivationalBook.display();
+                     break;
+                
+                 case 4:
+                     mgr.saveToFile(motivationalBook);
 
                 default:
                     break;
             }
             
-        }while(choice!=4);
+        }while(choice!=5);
     }
 }
