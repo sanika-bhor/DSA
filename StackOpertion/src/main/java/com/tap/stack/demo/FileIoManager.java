@@ -14,7 +14,7 @@ public class FileIoManager {
         ObjectOutputStream ostream=new ObjectOutputStream(fout);
         // for(int i=0;i<motivationalShelf.top;i++)
         // {
-            ostream.writeObject(motivationalShelf.book);
+            ostream.writeObject(motivationalShelf);
             ostream.close();
             fout.close();
             System.out.println("data save to file");

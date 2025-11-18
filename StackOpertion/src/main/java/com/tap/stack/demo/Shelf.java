@@ -1,6 +1,8 @@
 package com.tap.stack.demo;
 
-public class Shelf {
+import java.io.Serializable;
+
+public class Shelf implements Serializable{
     public int top;
     public Book[] book=new Book[5];
     public final int SIZE = 5;
