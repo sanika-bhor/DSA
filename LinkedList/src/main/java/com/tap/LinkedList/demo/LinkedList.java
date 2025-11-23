@@ -66,4 +66,18 @@ public class LinkedList {
         System.out.println("null");
     }
 
+    public boolean search(int data)
+    {
+        Node currentNode = head;
+        boolean status=false;
+        while (currentNode.next != null) {
+            currentNode = currentNode.next;
+            if (currentNode.data == data) {
+                currentNode = null;
+                status=true;
+            }
+        }
+        return status;
+
+    }
 }
