@@ -1,0 +1,15 @@
+A:\TAP\GitHub\DSA\C#\LinkedList\obj\Debug\net8.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+A:\TAP\GitHub\DSA\C#\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfoInputs.cache
+A:\TAP\GitHub\DSA\C#\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfo.cs
+A:\TAP\GitHub\DSA\C#\LinkedList\obj\Debug\net8.0\LinkedList.csproj.CoreCompileInputs.cache
+A:\TAP\GitHub\DSA\C#\LinkedList\obj\Debug\net8.0\LinkedList.sourcelink.json
+A:\TAP\GitHub\DSA\C#\LinkedList\bin\Debug\net8.0\LinkedList.exe
+A:\TAP\GitHub\DSA\C#\LinkedList\bin\Debug\net8.0\LinkedList.deps.json
+A:\TAP\GitHub\DSA\C#\LinkedList\bin\Debug\net8.0\LinkedList.runtimeconfig.json
+A:\TAP\GitHub\DSA\C#\LinkedList\bin\Debug\net8.0\LinkedList.dll
+A:\TAP\GitHub\DSA\C#\LinkedList\bin\Debug\net8.0\LinkedList.pdb
+A:\TAP\GitHub\DSA\C#\LinkedList\obj\Debug\net8.0\LinkedList.dll
+A:\TAP\GitHub\DSA\C#\LinkedList\obj\Debug\net8.0\refint\LinkedList.dll
+A:\TAP\GitHub\DSA\C#\LinkedList\obj\Debug\net8.0\LinkedList.pdb
+A:\TAP\GitHub\DSA\C#\LinkedList\obj\Debug\net8.0\LinkedList.genruntimeconfig.cache
+A:\TAP\GitHub\DSA\C#\LinkedList\obj\Debug\net8.0\ref\LinkedList.dll
