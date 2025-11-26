@@ -1,11 +1,13 @@
+using System.Text.Json.Serialization;
 using LinkedList.node;
 
 namespace LinkedList.List
 {
 
+    [Serializable]
     public class LinkedListNode
     {
-       public Node head=new();
+       public Node head{get;set;}
 
         public LinkedListNode()
         {

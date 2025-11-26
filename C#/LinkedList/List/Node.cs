@@ -1,5 +1,6 @@
 namespace LinkedList.node
 {
+    [Serializable]
     public class Node
     {
         public int data{get;set;}
