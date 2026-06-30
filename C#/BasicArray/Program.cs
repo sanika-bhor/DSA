@@ -150,7 +150,8 @@
             Display(matrixMultiplication);
 
 
-     
+            // Matrix is Symmetric
+            
 
         }
     }
