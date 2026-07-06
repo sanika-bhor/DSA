@@ -1,0 +1,15 @@
+A:\TAP\GitHub\DSA\C#\DoublyLinkedList\bin\Debug\net10.0\DoublyLinkedList.exe
+A:\TAP\GitHub\DSA\C#\DoublyLinkedList\bin\Debug\net10.0\DoublyLinkedList.deps.json
+A:\TAP\GitHub\DSA\C#\DoublyLinkedList\bin\Debug\net10.0\DoublyLinkedList.runtimeconfig.json
+A:\TAP\GitHub\DSA\C#\DoublyLinkedList\bin\Debug\net10.0\DoublyLinkedList.dll
+A:\TAP\GitHub\DSA\C#\DoublyLinkedList\bin\Debug\net10.0\DoublyLinkedList.pdb
+A:\TAP\GitHub\DSA\C#\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+A:\TAP\GitHub\DSA\C#\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.AssemblyInfoInputs.cache
+A:\TAP\GitHub\DSA\C#\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.AssemblyInfo.cs
+A:\TAP\GitHub\DSA\C#\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.csproj.CoreCompileInputs.cache
+A:\TAP\GitHub\DSA\C#\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.sourcelink.json
+A:\TAP\GitHub\DSA\C#\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.dll
+A:\TAP\GitHub\DSA\C#\DoublyLinkedList\obj\Debug\net10.0\refint\DoublyLinkedList.dll
+A:\TAP\GitHub\DSA\C#\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.pdb
+A:\TAP\GitHub\DSA\C#\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.genruntimeconfig.cache
+A:\TAP\GitHub\DSA\C#\DoublyLinkedList\obj\Debug\net10.0\ref\DoublyLinkedList.dll
