@@ -1,0 +1,15 @@
+A:\TAP\GitHub\DSA\C#\SinglyCircularLinkedList\bin\Debug\net10.0\SinglyCircularLinkedList.exe
+A:\TAP\GitHub\DSA\C#\SinglyCircularLinkedList\bin\Debug\net10.0\SinglyCircularLinkedList.deps.json
+A:\TAP\GitHub\DSA\C#\SinglyCircularLinkedList\bin\Debug\net10.0\SinglyCircularLinkedList.runtimeconfig.json
+A:\TAP\GitHub\DSA\C#\SinglyCircularLinkedList\bin\Debug\net10.0\SinglyCircularLinkedList.dll
+A:\TAP\GitHub\DSA\C#\SinglyCircularLinkedList\bin\Debug\net10.0\SinglyCircularLinkedList.pdb
+A:\TAP\GitHub\DSA\C#\SinglyCircularLinkedList\obj\Debug\net10.0\SinglyCircularLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+A:\TAP\GitHub\DSA\C#\SinglyCircularLinkedList\obj\Debug\net10.0\SinglyCircularLinkedList.AssemblyInfoInputs.cache
+A:\TAP\GitHub\DSA\C#\SinglyCircularLinkedList\obj\Debug\net10.0\SinglyCircularLinkedList.AssemblyInfo.cs
+A:\TAP\GitHub\DSA\C#\SinglyCircularLinkedList\obj\Debug\net10.0\SinglyCircularLinkedList.csproj.CoreCompileInputs.cache
+A:\TAP\GitHub\DSA\C#\SinglyCircularLinkedList\obj\Debug\net10.0\SinglyCircularLinkedList.sourcelink.json
+A:\TAP\GitHub\DSA\C#\SinglyCircularLinkedList\obj\Debug\net10.0\SinglyCircularLinkedList.dll
+A:\TAP\GitHub\DSA\C#\SinglyCircularLinkedList\obj\Debug\net10.0\refint\SinglyCircularLinkedList.dll
+A:\TAP\GitHub\DSA\C#\SinglyCircularLinkedList\obj\Debug\net10.0\SinglyCircularLinkedList.pdb
+A:\TAP\GitHub\DSA\C#\SinglyCircularLinkedList\obj\Debug\net10.0\SinglyCircularLinkedList.genruntimeconfig.cache
+A:\TAP\GitHub\DSA\C#\SinglyCircularLinkedList\obj\Debug\net10.0\ref\SinglyCircularLinkedList.dll
