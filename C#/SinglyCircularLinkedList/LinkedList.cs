@@ -81,6 +81,63 @@ namespace TFLCollections
             Console.Write(current.data + "-->");
         }
 
+   
+      public void Update(int oldData,int newData)
+        {
+            Node current = head;
+            while (current.next != head)
+            {
+                if(current.data==oldData)
+                {
+                    current.data = newData;
+                }
+                current = current.next;
+            }
+        }
+
+        public void Delete(int data)
+        {
+            if(head.data==data)
+            {
+                if(head.next==head)
+                {
+                    head=null;
+                }
+                else
+                {
+                 
+                    Node current = head;
+                    while (current.next != head)
+                    {
+                        current = current.next;
+                    }
+                    head = head.next;
+                    current.next=head;
+                }
+
+            }
+           
+            else
+            {
+                // 5 10 12 13 15 16
+                Node current = head;
+                while (current.next != head)
+                {
+                    if (current.next.data == data)
+                    {
+                        if(current.next.next==head)
+                        {
+                            current.next=head;
+                        }
+                        else
+                        {
+                            current.next=current.next.next;
+                        }
+                    }
+                    current = current.next;
+                }
+            }
+        }
     }
 
 }
