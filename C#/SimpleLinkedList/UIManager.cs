@@ -1,6 +1,5 @@
-using System.Drawing;
 
-namespace LinkedList.UIManager
+namespace TFLCollection.UIManager
 {
     public class UIManager
     {

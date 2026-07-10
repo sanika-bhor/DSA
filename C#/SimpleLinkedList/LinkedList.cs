@@ -1,6 +1,6 @@
-using LinkedList.CreateNode;
+using TFLCollection.CreateNode;
 
-namespace LinkedList.List
+namespace TFLCollection.List
 {
     public class linkedlist
     {

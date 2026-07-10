@@ -1,0 +1,15 @@
+A:\TAP\GitHub\DSA\C#\BubbleSort\bin\Debug\net10.0\BubbleSort.exe
+A:\TAP\GitHub\DSA\C#\BubbleSort\bin\Debug\net10.0\BubbleSort.deps.json
+A:\TAP\GitHub\DSA\C#\BubbleSort\bin\Debug\net10.0\BubbleSort.runtimeconfig.json
+A:\TAP\GitHub\DSA\C#\BubbleSort\bin\Debug\net10.0\BubbleSort.dll
+A:\TAP\GitHub\DSA\C#\BubbleSort\bin\Debug\net10.0\BubbleSort.pdb
+A:\TAP\GitHub\DSA\C#\BubbleSort\obj\Debug\net10.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+A:\TAP\GitHub\DSA\C#\BubbleSort\obj\Debug\net10.0\BubbleSort.AssemblyInfoInputs.cache
+A:\TAP\GitHub\DSA\C#\BubbleSort\obj\Debug\net10.0\BubbleSort.AssemblyInfo.cs
+A:\TAP\GitHub\DSA\C#\BubbleSort\obj\Debug\net10.0\BubbleSort.csproj.CoreCompileInputs.cache
+A:\TAP\GitHub\DSA\C#\BubbleSort\obj\Debug\net10.0\BubbleSort.sourcelink.json
+A:\TAP\GitHub\DSA\C#\BubbleSort\obj\Debug\net10.0\BubbleSort.dll
+A:\TAP\GitHub\DSA\C#\BubbleSort\obj\Debug\net10.0\refint\BubbleSort.dll
+A:\TAP\GitHub\DSA\C#\BubbleSort\obj\Debug\net10.0\BubbleSort.pdb
+A:\TAP\GitHub\DSA\C#\BubbleSort\obj\Debug\net10.0\BubbleSort.genruntimeconfig.cache
+A:\TAP\GitHub\DSA\C#\BubbleSort\obj\Debug\net10.0\ref\BubbleSort.dll

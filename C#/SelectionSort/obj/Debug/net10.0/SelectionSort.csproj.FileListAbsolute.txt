@@ -1,0 +1,15 @@
+A:\TAP\GitHub\DSA\C#\SelectionSort\bin\Debug\net10.0\SelectionSort.exe
+A:\TAP\GitHub\DSA\C#\SelectionSort\bin\Debug\net10.0\SelectionSort.deps.json
+A:\TAP\GitHub\DSA\C#\SelectionSort\bin\Debug\net10.0\SelectionSort.runtimeconfig.json
+A:\TAP\GitHub\DSA\C#\SelectionSort\bin\Debug\net10.0\SelectionSort.dll
+A:\TAP\GitHub\DSA\C#\SelectionSort\bin\Debug\net10.0\SelectionSort.pdb
+A:\TAP\GitHub\DSA\C#\SelectionSort\obj\Debug\net10.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+A:\TAP\GitHub\DSA\C#\SelectionSort\obj\Debug\net10.0\SelectionSort.AssemblyInfoInputs.cache
+A:\TAP\GitHub\DSA\C#\SelectionSort\obj\Debug\net10.0\SelectionSort.AssemblyInfo.cs
+A:\TAP\GitHub\DSA\C#\SelectionSort\obj\Debug\net10.0\SelectionSort.csproj.CoreCompileInputs.cache
+A:\TAP\GitHub\DSA\C#\SelectionSort\obj\Debug\net10.0\SelectionSort.sourcelink.json
+A:\TAP\GitHub\DSA\C#\SelectionSort\obj\Debug\net10.0\SelectionSort.dll
+A:\TAP\GitHub\DSA\C#\SelectionSort\obj\Debug\net10.0\refint\SelectionSort.dll
+A:\TAP\GitHub\DSA\C#\SelectionSort\obj\Debug\net10.0\SelectionSort.pdb
+A:\TAP\GitHub\DSA\C#\SelectionSort\obj\Debug\net10.0\SelectionSort.genruntimeconfig.cache
+A:\TAP\GitHub\DSA\C#\SelectionSort\obj\Debug\net10.0\ref\SelectionSort.dll

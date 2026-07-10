@@ -3,6 +3,7 @@ namespace TFLCollection
     public class LinkedList
     {
       public Node head=null;
+      public Node tail=null;
 
       public void InsertAtFirst(int data)
       {
@@ -10,6 +11,7 @@ namespace TFLCollection
             if(head==null)
             {
                 head=newNode;
+                tail = head;
             }
             else
             {
@@ -17,9 +19,9 @@ namespace TFLCollection
                 newNode.Next=head;
                 head=newNode;
             }
-      }
+        }
 
-         public void InsertAtLast(int data)
+        public void InsertAtLast(int data)
         {
             Node newNode=new Node(data);
 
@@ -31,6 +33,7 @@ namespace TFLCollection
 
             current.Next=newNode;
             newNode.Prev=current;
+            tail=newNode;
         }
 
         public void InsertAtMiddle(int data)
@@ -71,6 +74,7 @@ namespace TFLCollection
                 if(head.Next==null)
                 {
                     head= null;
+                    tail=null;
                 }
                 else
                 {
@@ -84,9 +88,11 @@ namespace TFLCollection
                 {
                     current = current.Next;
                 }
+
                 if (current.Next.Next == null)
                 {
                     current.Next = null;
+                    tail=current;
                 }
                 else
                 {
@@ -98,25 +104,28 @@ namespace TFLCollection
         }
 
 
-        public void Display()
+        public void DisplayFromHead()
         {
-            Node last=null;;
             Node current = head;
             Console.WriteLine("\n\n\nNext Element: ");
             Console.Write("null--->");
             while (current != null)
             {
                 Console.Write(current.data+"--->");
-                last=current;
                 current = current.Next;
             }
             Console.Write("null\n");
+           
+        }
+
+        public void DisplayFromTail()
+        {
             Console.WriteLine("Prev Element");
             Console.Write("null");
-            current=last;
+            Node current = tail;
             while (current != null)
             {
-                Console.Write("<---"+ current.data);
+                Console.Write("<---" + current.data);
                 current = current.Prev;
             }
             Console.Write("<---null");

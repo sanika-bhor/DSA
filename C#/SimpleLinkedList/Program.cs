@@ -1,5 +1,5 @@
-﻿using LinkedList.List;
-using LinkedList.UIManager;
+﻿using TFLCollection.List;
+using TFLCollection.UIManager;
 
 class Program
 {

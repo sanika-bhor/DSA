@@ -1,4 +1,4 @@
-namespace LinkedList.CreateNode
+namespace TFLCollection.CreateNode
 {
     public class Node
     {
