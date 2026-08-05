@@ -1,0 +1,15 @@
+A:\TAP\GitHub\DSA\C#\queue\bin\Debug\net10.0\queue.exe
+A:\TAP\GitHub\DSA\C#\queue\bin\Debug\net10.0\queue.deps.json
+A:\TAP\GitHub\DSA\C#\queue\bin\Debug\net10.0\queue.runtimeconfig.json
+A:\TAP\GitHub\DSA\C#\queue\bin\Debug\net10.0\queue.dll
+A:\TAP\GitHub\DSA\C#\queue\bin\Debug\net10.0\queue.pdb
+A:\TAP\GitHub\DSA\C#\queue\obj\Debug\net10.0\queue.GeneratedMSBuildEditorConfig.editorconfig
+A:\TAP\GitHub\DSA\C#\queue\obj\Debug\net10.0\queue.AssemblyInfoInputs.cache
+A:\TAP\GitHub\DSA\C#\queue\obj\Debug\net10.0\queue.AssemblyInfo.cs
+A:\TAP\GitHub\DSA\C#\queue\obj\Debug\net10.0\queue.csproj.CoreCompileInputs.cache
+A:\TAP\GitHub\DSA\C#\queue\obj\Debug\net10.0\queue.sourcelink.json
+A:\TAP\GitHub\DSA\C#\queue\obj\Debug\net10.0\queue.dll
+A:\TAP\GitHub\DSA\C#\queue\obj\Debug\net10.0\refint\queue.dll
+A:\TAP\GitHub\DSA\C#\queue\obj\Debug\net10.0\queue.pdb
+A:\TAP\GitHub\DSA\C#\queue\obj\Debug\net10.0\queue.genruntimeconfig.cache
+A:\TAP\GitHub\DSA\C#\queue\obj\Debug\net10.0\ref\queue.dll
