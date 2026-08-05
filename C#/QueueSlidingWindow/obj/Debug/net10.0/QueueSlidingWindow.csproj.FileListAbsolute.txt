@@ -1,0 +1,15 @@
+A:\TAP\GitHub\DSA\C#\QueueSlidingWindow\bin\Debug\net10.0\QueueSlidingWindow.exe
+A:\TAP\GitHub\DSA\C#\QueueSlidingWindow\bin\Debug\net10.0\QueueSlidingWindow.deps.json
+A:\TAP\GitHub\DSA\C#\QueueSlidingWindow\bin\Debug\net10.0\QueueSlidingWindow.runtimeconfig.json
+A:\TAP\GitHub\DSA\C#\QueueSlidingWindow\bin\Debug\net10.0\QueueSlidingWindow.dll
+A:\TAP\GitHub\DSA\C#\QueueSlidingWindow\bin\Debug\net10.0\QueueSlidingWindow.pdb
+A:\TAP\GitHub\DSA\C#\QueueSlidingWindow\obj\Debug\net10.0\QueueSlidingWindow.GeneratedMSBuildEditorConfig.editorconfig
+A:\TAP\GitHub\DSA\C#\QueueSlidingWindow\obj\Debug\net10.0\QueueSlidingWindow.AssemblyInfoInputs.cache
+A:\TAP\GitHub\DSA\C#\QueueSlidingWindow\obj\Debug\net10.0\QueueSlidingWindow.AssemblyInfo.cs
+A:\TAP\GitHub\DSA\C#\QueueSlidingWindow\obj\Debug\net10.0\QueueSlidingWindow.csproj.CoreCompileInputs.cache
+A:\TAP\GitHub\DSA\C#\QueueSlidingWindow\obj\Debug\net10.0\QueueSlidingWindow.sourcelink.json
+A:\TAP\GitHub\DSA\C#\QueueSlidingWindow\obj\Debug\net10.0\QueueSlidingWindow.dll
+A:\TAP\GitHub\DSA\C#\QueueSlidingWindow\obj\Debug\net10.0\refint\QueueSlidingWindow.dll
+A:\TAP\GitHub\DSA\C#\QueueSlidingWindow\obj\Debug\net10.0\QueueSlidingWindow.pdb
+A:\TAP\GitHub\DSA\C#\QueueSlidingWindow\obj\Debug\net10.0\QueueSlidingWindow.genruntimeconfig.cache
+A:\TAP\GitHub\DSA\C#\QueueSlidingWindow\obj\Debug\net10.0\ref\QueueSlidingWindow.dll
