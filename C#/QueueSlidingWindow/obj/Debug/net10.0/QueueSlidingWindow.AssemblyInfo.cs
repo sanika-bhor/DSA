@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QueueSlidingWindow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cc8a288049f872de48bf9f1998cefaf518f9fde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91a04ba0a77f6f1b8c2a812c757ae48bafbf0d28")]
 [assembly: System.Reflection.AssemblyProductAttribute("QueueSlidingWindow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QueueSlidingWindow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

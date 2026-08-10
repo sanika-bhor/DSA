@@ -11,23 +11,7 @@ if(queueSize%windowSize == 0 )
 
 
     QueueDataStructure newQueue = new QueueDataStructure(queueSize);
-
-    // Window[] windows = new Window[noOfWindow];
-
-    // for (int i = 0; i < noOfWindow; i++)
-    // {
-    //     int startIndex = i * windowSize;
-    //     int endIndex = startIndex + windowSize - 1;
-
-    //     Window window = new Window(startIndex, endIndex);
-    //     windows[i] = window;
-    // }
-
-
     WindowManager windowManager= new WindowManager(queueSize, windowSize);
-
-
-    
 
 
     newQueue.DisplayQueue(windowManager.window);
@@ -40,11 +24,14 @@ if(queueSize%windowSize == 0 )
     newQueue.DisplayQueue(windowManager.window);
     newQueue.EnQueue(windowManager.window, 60);
 
+
     // newQueue.DeQueue(windowManager.window); newQueue.DeQueue(windowManager.window);
     newQueue.DisplayQueue(windowManager.window);
 
 
+windowManager.SaveWindowState(windowManager.window);
 windowManager.MoveNext();
+
     Console.WriteLine("*************WIndow 2********************");
     newQueue.EnQueue(windowManager.window, 600);
     newQueue.EnQueue(windowManager.window, 700);
@@ -53,6 +40,7 @@ windowManager.MoveNext();
 
 
     Console.WriteLine("*************WIndow 1********************");
+    windowManager.SaveWindowState(windowManager.window);
     windowManager.MoveBack();
     newQueue.EnQueue(windowManager.window, 70);
     newQueue.DisplayQueue(windowManager.window);
@@ -60,6 +48,7 @@ windowManager.MoveNext();
 
 
     Console.WriteLine("************* don't knnow********************");
+    windowManager.SaveWindowState(windowManager.window);
     windowManager.MoveNext();
     newQueue.DeQueue(windowManager.window);
     newQueue.DisplayQueue(windowManager.window);
