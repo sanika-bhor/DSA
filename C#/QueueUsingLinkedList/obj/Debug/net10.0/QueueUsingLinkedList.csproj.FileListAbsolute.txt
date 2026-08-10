@@ -1,0 +1,15 @@
+A:\TAP\GitHub\DSA\C#\QueueUsingLinkedList\bin\Debug\net10.0\QueueUsingLinkedList.exe
+A:\TAP\GitHub\DSA\C#\QueueUsingLinkedList\bin\Debug\net10.0\QueueUsingLinkedList.deps.json
+A:\TAP\GitHub\DSA\C#\QueueUsingLinkedList\bin\Debug\net10.0\QueueUsingLinkedList.runtimeconfig.json
+A:\TAP\GitHub\DSA\C#\QueueUsingLinkedList\bin\Debug\net10.0\QueueUsingLinkedList.dll
+A:\TAP\GitHub\DSA\C#\QueueUsingLinkedList\bin\Debug\net10.0\QueueUsingLinkedList.pdb
+A:\TAP\GitHub\DSA\C#\QueueUsingLinkedList\obj\Debug\net10.0\QueueUsingLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+A:\TAP\GitHub\DSA\C#\QueueUsingLinkedList\obj\Debug\net10.0\QueueUsingLinkedList.AssemblyInfoInputs.cache
+A:\TAP\GitHub\DSA\C#\QueueUsingLinkedList\obj\Debug\net10.0\QueueUsingLinkedList.AssemblyInfo.cs
+A:\TAP\GitHub\DSA\C#\QueueUsingLinkedList\obj\Debug\net10.0\QueueUsingLinkedList.csproj.CoreCompileInputs.cache
+A:\TAP\GitHub\DSA\C#\QueueUsingLinkedList\obj\Debug\net10.0\QueueUsingLinkedList.sourcelink.json
+A:\TAP\GitHub\DSA\C#\QueueUsingLinkedList\obj\Debug\net10.0\QueueUsingLinkedList.dll
+A:\TAP\GitHub\DSA\C#\QueueUsingLinkedList\obj\Debug\net10.0\refint\QueueUsingLinkedList.dll
+A:\TAP\GitHub\DSA\C#\QueueUsingLinkedList\obj\Debug\net10.0\QueueUsingLinkedList.pdb
+A:\TAP\GitHub\DSA\C#\QueueUsingLinkedList\obj\Debug\net10.0\QueueUsingLinkedList.genruntimeconfig.cache
+A:\TAP\GitHub\DSA\C#\QueueUsingLinkedList\obj\Debug\net10.0\ref\QueueUsingLinkedList.dll
