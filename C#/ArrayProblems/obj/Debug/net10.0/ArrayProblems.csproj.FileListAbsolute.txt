@@ -1,0 +1,15 @@
+A:\TAP\GitHub\DSA\C#\ArrayProblems\bin\Debug\net10.0\ArrayProblems.exe
+A:\TAP\GitHub\DSA\C#\ArrayProblems\bin\Debug\net10.0\ArrayProblems.deps.json
+A:\TAP\GitHub\DSA\C#\ArrayProblems\bin\Debug\net10.0\ArrayProblems.runtimeconfig.json
+A:\TAP\GitHub\DSA\C#\ArrayProblems\bin\Debug\net10.0\ArrayProblems.dll
+A:\TAP\GitHub\DSA\C#\ArrayProblems\bin\Debug\net10.0\ArrayProblems.pdb
+A:\TAP\GitHub\DSA\C#\ArrayProblems\obj\Debug\net10.0\ArrayProblems.GeneratedMSBuildEditorConfig.editorconfig
+A:\TAP\GitHub\DSA\C#\ArrayProblems\obj\Debug\net10.0\ArrayProblems.AssemblyInfoInputs.cache
+A:\TAP\GitHub\DSA\C#\ArrayProblems\obj\Debug\net10.0\ArrayProblems.AssemblyInfo.cs
+A:\TAP\GitHub\DSA\C#\ArrayProblems\obj\Debug\net10.0\ArrayProblems.csproj.CoreCompileInputs.cache
+A:\TAP\GitHub\DSA\C#\ArrayProblems\obj\Debug\net10.0\ArrayProblems.sourcelink.json
+A:\TAP\GitHub\DSA\C#\ArrayProblems\obj\Debug\net10.0\ArrayProblems.dll
+A:\TAP\GitHub\DSA\C#\ArrayProblems\obj\Debug\net10.0\refint\ArrayProblems.dll
+A:\TAP\GitHub\DSA\C#\ArrayProblems\obj\Debug\net10.0\ArrayProblems.pdb
+A:\TAP\GitHub\DSA\C#\ArrayProblems\obj\Debug\net10.0\ArrayProblems.genruntimeconfig.cache
+A:\TAP\GitHub\DSA\C#\ArrayProblems\obj\Debug\net10.0\ref\ArrayProblems.dll
